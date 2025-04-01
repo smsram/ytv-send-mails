@@ -5,9 +5,13 @@ This repository contains a Python script to send emails using Gmail's SMTP serve
 
 # Features:
 ✅ Send emails using Gmail SMTP
+
 ✅ Support for plain text & HTML emails
+
 ✅ Attach files & images to emails
+
 ✅ Secure authentication using App Passwords
+
 ✅ Easy-to-use and customizable
 
 # Requirements:
