@@ -16,6 +16,9 @@ This repository contains a Python script to send emails using Gmail's SMTP serve
 
 # Requirements:
 -> Python 3.x
+
 -> Enable Less Secure Apps or use App Password in Gmail
+
 -> Install dependencies using:
+
   pip install smtplib email
